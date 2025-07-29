@@ -36,13 +36,13 @@ const Contact = () => {
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Téléphone",
-      details: ["+229 XX XX XX XX", "+229 YY YY YY YY"],
+      details: ["+2290196041956", "+2290194586892"],
       action: "Appelez-nous"
     },
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      details: ["contact@crazyofgod.com", "info@crazyofgod.com"],
+      details: ["crazyofgod9604@gmail.com", "edmondadjahouisso96@gmail.com"],
       action: "Écrivez-nous"
     },
     {
