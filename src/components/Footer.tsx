@@ -116,16 +116,16 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Phone className="w-5 h-5 text-yellow-500 mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-400 text-sm">+229 XX XX XX XX</p>
-                  <p className="text-gray-400 text-sm">+229 YY YY YY YY</p>
+                  <p className="text-gray-400 text-sm">+2290194586892</p>
+                  <p className="text-gray-400 text-sm">+2290196041956</p>
                 </div>
               </div>
               
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-yellow-500 mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-400 text-sm">contact@crazyofgod.com</p>
-                  <p className="text-gray-400 text-sm">info@crazyofgod.com</p>
+                  <p className="text-gray-400 text-sm">crazyofgod9604@gmail.com</p>
+                  <p className="text-gray-400 text-sm">edmondadjahouisso96@gmail.com</p>
                 </div>
               </div>
               
@@ -141,7 +141,7 @@ const Footer = () => {
             {/* WhatsApp Button */}
             <div className="mt-6">
               <a 
-                href="https://wa.me/229XXXXXXXX" 
+                href="https://wa.me/+2290196041956" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-lg font-semibold transition-colors duration-300 flex items-center justify-center space-x-2 text-sm"
