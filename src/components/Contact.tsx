@@ -101,7 +101,7 @@ const Contact = () => {
               {/* WhatsApp Button */}
               <div className="mt-8 pt-8 border-t border-white/20">
                 <a 
-                  href="https://wa.me/229XXXXXXXX" 
+                  href="https://wa.me/2290194586892" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-300 flex items-center justify-center space-x-2 w-full"
@@ -185,7 +185,7 @@ const Contact = () => {
                       value={formData.phone}
                       onChange={handleChange}
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-300"
-                      placeholder="+229 XX XX XX XX"
+                      placeholder="+2290194586892"
                     />
                   </div>
                   <div>
